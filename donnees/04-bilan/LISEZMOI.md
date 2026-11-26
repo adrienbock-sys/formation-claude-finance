@@ -1,1 +1,3 @@
 Balance fictive au 31/12/2025, avant clôture, équilibrée (110,990,000 XPF au débit et au crédit). Résultat de l’exercice = produits (classe 7) − charges (classe 6).
+
+**À faire :** contrôler la balance, calculer le résultat, produire bilan et compte de résultat.
