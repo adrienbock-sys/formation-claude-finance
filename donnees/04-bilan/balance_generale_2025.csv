@@ -1,0 +1,27 @@
+compte;libelle;debit;credit
+101000;Capital;0;3000000
+106000;Réserves;0;4500000
+164000;Emprunts;0;6200000
+215400;Matériel;9800000;0
+281540;Amortissements matériel;0;3900000
+370000;Stocks marchandises;5200000;0
+411000;Clients;7400000;0
+401000;Fournisseurs;0;4800000
+445660;TGC déductible;620000;0
+445710;TGC collectée;0;1450000
+421000;Salaires à payer;0;2100000
+431000;Organismes sociaux;0;1300000
+512000;Banque;3900000;0
+530000;Caisse;250000;0
+601000;Achats marchandises;31500000;0
+603700;Variation de stocks;0;600000
+606100;Électricité;1450000;0
+613200;Loyers;4800000;0
+623000;Publicité;1300000;0
+641000;Salaires;33000000;0
+645000;Charges sociales;9900000;0
+661100;Intérêts;420000;0
+681100;Dotations amortissements;1450000;0
+706000;Prestations;0;38500000
+707000;Ventes marchandises;0;44640000
+120000;Résultat (à calculer);0;0

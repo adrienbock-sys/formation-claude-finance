@@ -1,0 +1,7 @@
+cotisation;part_salariale_pct;part_patronale_pct;plafond
+Retraite (fictif);4.0;8.0;aucun
+Assurance maladie (fictif);4.5;11.0;aucun
+Accident du travail (fictif);0;1.5;aucun
+Chômage (fictif);0.5;1.5;plafond fictif 500 000
+Formation professionnelle (fictif);0;0.5;aucun
+Contribution sociale (fictif);2.0;0;aucun

@@ -1,0 +1,9 @@
+hypothese;valeur;min_curseur;max_curseur;unite
+Croissance du CA;6;-10;25;%/an
+Taux de marge brute;63;50;75;%
+Embauches;2;0;6;personnes/an
+Salaire moyen chargé;3600000;3000000;5000000;XPF/an
+Délai client;45;15;90;jours
+Délai fournisseur;30;15;60;jours
+Investissements;4000000;0;15000000;XPF/an
+CA de départ 2025;83140000;;;XPF
