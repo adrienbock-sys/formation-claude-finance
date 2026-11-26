@@ -7,8 +7,8 @@
 
 1. **Contrôle de la balance**
    ```text
-   Vérifie que la balance est exploitable : total débits, total crédits, écart.
-   Calcule le résultat de l’exercice (produits − charges) et vérifie qu’il explique l’écart.
+   Vérifie que la balance est exploitable : total débits = total crédits.
+   Calcule le résultat de l’exercice (produits de classe 7 − charges de classe 6).
    ```
 2. **Bilan et compte de résultat**
    ```text
@@ -24,5 +24,5 @@
    ```
 
 ## Points de vigilance
-- Le résultat doit équilibrer le bilan : c’est le contrôle n° 1.
+- Le résultat doit équilibrer le bilan : c’est le contrôle n° 1. Indice : l’exercice 2025 est légèrement déficitaire.
 - Claude ne remplace ni l’expert-comptable ni les écritures d’inventaire (provisions, cut-off).

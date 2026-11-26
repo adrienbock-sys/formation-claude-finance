@@ -1,7 +1,7 @@
 # Cas 6 — Extraction et rapprochement des caisses
 
 **Données :** `donnees/07-caisses/` — deux magasins fictifs (Nouméa Ducos, 2 caisses ; Païta, 1 caisse), novembre 2026 :
-- `export_tickets_novembre.xlsx` : 1 300 tickets environ (extraction du logiciel de caisse) ;
+- `export_tickets_novembre.xlsx` : 1 290 tickets environ (extraction du logiciel de caisse) ;
 - `tickets_Z.xlsx` : clôtures journalières par caisse ;
 - `releve_bancaire_remises_cb.xlsx` : remises carte bancaire sur le relevé.
 

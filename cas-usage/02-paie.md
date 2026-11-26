@@ -21,7 +21,7 @@
 ```text
 Croise salaries.xlsx et variables_novembre.xlsx. Liste les anomalies :
 heures sup sur un poste de gérant, absences sans motif, prime supérieure à 10 % du salaire de base,
-CDD dont la date de fin n’est pas renseignée. Présente un tableau : matricule, anomalie, action proposée.
+CDD dont la date de fin n’est pas renseignée (colonne fin_contrat). Présente un tableau : matricule, anomalie, action proposée.
 ```
 
 **Simulation pédagogique :**

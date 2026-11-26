@@ -1,13 +1,13 @@
-matricule;nom;poste;contrat;entree;heures_mensuelles;salaire_base_xpf
-S01;Léa Martin;Technicienne piscine;CDI;2015-01-01;169;495000
-S02;Kévin Wamytan;Technicien piscine;CDD;2016-02-01;169;457000
-S03;Sandra Nguyen;Comptable;CDD;2017-03-01;169;374000
-S04;Paul Tein;Commercial;CDI;2018-04-01;169;323000
-S05;Mireille Gope;Vendeuse magasin;CDD;2019-05-01;169;428000
-S06;Julien Rossi;Responsable atelier;CDD;2020-06-01;169;412000
-S07;Anaïs Kaloi;Vendeuse magasin;CDI;2021-07-01;169;338000
-S08;Thomas Bernard;Technicien piscine;CDI;2022-08-01;169;424000
-S09;Sarah Poédi;Assistante administrative;CDI;2023-09-01;169;414000
-S10;Nicolas Leroy;Chef d'équipe;CDI;2024-10-01;169;421000
-S11;Inès Tuilagi;Technicienne piscine;CDI;2015-11-01;169;407000
-S12;Marc Dubois;Gérant;CDD;2016-12-01;169;222000
+matricule;nom;poste;contrat;entree;fin_contrat;heures_mensuelles;salaire_base_xpf
+S01;Léa Martin;Technicienne piscine;CDI;2015-01-01;;169;228000
+S02;Kévin Wamytan;Technicien piscine;CDI;2016-02-01;;169;357000
+S03;Sandra Nguyen;Comptable;CDI;2017-03-01;;169;415000
+S04;Paul Tein;Commercial;CDI;2018-04-01;;169;342000
+S05;Mireille Gope;Vendeuse magasin;CDD;2019-05-01;2027-03-31;169;307000
+S06;Julien Rossi;Responsable atelier;CDI;2020-06-01;;169;395000
+S07;Anaïs Kaloi;Vendeuse magasin;CDI;2021-07-01;;169;323000
+S08;Thomas Bernard;Technicien piscine;CDI;2022-08-01;;169;315000
+S09;Sarah Poédi;Assistante administrative;CDD;2023-09-01;;169;282000
+S10;Nicolas Leroy;Chef d'équipe;CDI;2024-10-01;;169;241000
+S11;Inès Tuilagi;Technicienne piscine;CDI;2015-11-01;;169;256000
+S12;Marc Dubois;Gérant;CDI;2016-12-01;;169;650000
